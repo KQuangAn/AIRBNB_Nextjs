@@ -1,5 +1,3 @@
-
-
 import { SafeUser } from "@/app/types";
 
 import Categories from "./Categories";
